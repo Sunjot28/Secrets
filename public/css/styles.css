@@ -1,0 +1,35 @@
+body {
+  background-color: #e8ecef;
+}
+
+.centered {
+  padding-top: 200px;
+  text-align: center;
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: #fff;
+  background-color: #000;
+}
+
+.login {
+  float: right;
+}
+
+.google {
+  border-radius: 26px;
+  height: 2.5rem;
+  width: 15rem;
+  margin: 0.3rem auto;
+}
+
+.fab {
+  margin-right: 2px;
+}
+
+.errorMesg{
+  color: red;
+  font-size: 13px;
+}
